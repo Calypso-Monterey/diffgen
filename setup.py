@@ -24,6 +24,7 @@ setup_keywords['install_requires'] = [
     'torch',  'torchvision', 'seaborn', 'smart-open[s3]', 
     'pyarrow', 'seaborn', 'scikit-learn', 'scikit-image', 
     'healpy', 'cftime', 'bokeh', 'llvmlite', 
+    'holoviews',
     'xarray', 'h5netcdf', 'ipywidgets', 'matplotlib',
     'importlib-metadata', 'timm==0.3.2']
 
